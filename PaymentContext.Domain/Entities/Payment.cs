@@ -7,21 +7,25 @@ namespace PaymentContext.Domain.Entities
         public DateTime ExpireDate { get; set; }
         public decimal Total { get; set; }
         public decimal TotalPaid { get; set; }
-        public string Owner { get; set; }
+        public string Payer { get; set; }
         public string Document { get; set; }
         public string Address { get; set; }
+        public string Email { get; set; }
     }
 
     public class boletoPayment : Payment
     {
-        
+        public string Barcode { get; set; }
+        public string BoletoNumber { get; set; }
     }
     public class CreditCartPayment : Payment
     {
-        
+        public string CardHolderName { get; set; }
+        public string CardNumber { get; set; }
+        public string LastTransactionNumber { get; set; }
     }
     public class PayPalPayment : Payment
     {
-        
+        public string TransactionCode { get; set; }
     }
 }
