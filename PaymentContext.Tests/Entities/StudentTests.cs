@@ -8,6 +8,6 @@ public class StudentTests
     [TestMethod]
     public void TestMethod1()
     {
-        var student = new Student();
+        var student = new Student("Matheus", "Manoel", "12345678","matheusmanoel@gmail.com");
     }
 }
