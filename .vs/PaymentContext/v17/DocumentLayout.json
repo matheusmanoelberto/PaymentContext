@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\entities\\creditcartpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\creditcartpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\entities\\boletopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\boletopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8EF5801-92A0-4762-9204-2863A4B8D8D5}|PaymentContext.Tests\\PaymentContext.Tests.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.tests\\entities\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8EF5801-92A0-4762-9204-2863A4B8D8D5}|PaymentContext.Tests\\PaymentContext.Tests.csproj|solutionrelative:paymentcontext.tests\\entities\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreditCartPayment.cs",
-              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\CreditCartPayment.cs",
-              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\CreditCartPayment.cs",
-              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\CreditCartPayment.cs",
-              "RelativeToolTip": "PaymentContext.Domain\\Entities\\CreditCartPayment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:36:23.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BoletoPayment.cs",
-              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\BoletoPayment.cs",
-              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\BoletoPayment.cs",
-              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\BoletoPayment.cs",
-              "RelativeToolTip": "PaymentContext.Domain\\Entities\\BoletoPayment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:34:33.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\Payment.cs",
-              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\Payment.cs",
-              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\Payment.cs",
-              "RelativeToolTip": "PaymentContext.Domain\\Entities\\Payment.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:30:46.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Subscription.cs",
-              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\Subscription.cs",
-              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\Subscription.cs",
-              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\Subscription.cs",
-              "RelativeToolTip": "PaymentContext.Domain\\Entities\\Subscription.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAADwvxQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:19:08.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\Student.cs",
               "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\Student.cs",
               "RelativeToolTip": "PaymentContext.Domain\\Entities\\Student.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T18:57:27.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentTests.cs",
-              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Tests\\Entities\\StudentTests.cs",
-              "RelativeDocumentMoniker": "PaymentContext.Tests\\Entities\\StudentTests.cs",
-              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Tests\\Entities\\StudentTests.cs",
-              "RelativeToolTip": "PaymentContext.Tests\\Entities\\StudentTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T18:54:58.147Z",
               "EditorCaption": ""
             }
           ]
