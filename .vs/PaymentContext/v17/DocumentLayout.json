@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\valueobjects\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\valueobjects\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AA020-D656-49C0-8567-F28ABB76A711}|PaymentContext.Shared\\PaymentContext.Shared.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.shared\\valueobjects\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AA020-D656-49C0-8567-F28ABB76A711}|PaymentContext.Shared\\PaymentContext.Shared.csproj|solutionrelative:paymentcontext.shared\\valueobjects\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9AA020-D656-49C0-8567-F28ABB76A711}|PaymentContext.Shared\\PaymentContext.Shared.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.shared\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9AA020-D656-49C0-8567-F28ABB76A711}|PaymentContext.Shared\\PaymentContext.Shared.csproj|solutionrelative:paymentcontext.shared\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Name.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\ValueObjects\\Name.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\ValueObjects\\Name.cs",
+              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\ValueObjects\\Name.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\ValueObjects\\Name.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:58:19.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Shared\\ValueObjects\\ValueObject.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Shared\\ValueObjects\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Shared\\ValueObjects\\ValueObject.cs",
+              "RelativeToolTip": "PaymentContext.Shared\\ValueObjects\\ValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:51:44.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Shared\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Shared\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Shared\\Entities\\Entity.cs",
+              "RelativeToolTip": "PaymentContext.Shared\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:38:54.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:34:49.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
