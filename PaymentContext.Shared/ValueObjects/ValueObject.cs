@@ -2,6 +2,6 @@
 
 namespace PaymentContext.Shared.ValueObjects;
 
-public abstract class ValueObject : Notifiable<Notification>
+public abstract class ValueObject : Notifiable
 {
 }

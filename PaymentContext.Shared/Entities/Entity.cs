@@ -2,7 +2,7 @@
 
 namespace PaymentContext.Shared.Entities;
 
-public abstract class Entity : Notifiable<Notification>
+public abstract class Entity : Notifiable
 {
     
     protected Entity()
