@@ -33,13 +33,13 @@ namespace PaymentContext.Domain.Entities
 
             AddNotifications(new Contract()
                 .Requires()
-                .IsFalse(hasSubscriptionActive, "Student.Subscriptions", "Você já tem uma assinatura ativa")
-                .IsGreaterThan(0,subscription.Payments.Count,"Studante.Subscription.Payments", "Wsta assinatura não possui pagamentos")
+                .IsFalse(hasSubscriptionActive, "Student.Subscriptions", "VocÃª jÃ¡ tem uma assinatura ativa")
+                .AreEquals(0,subscription.Payments.Count,"Studante.Subscription.Payments", "Wsta assinatura nÃ£o possui pagamentos")
                 );
 
             // Alternativa
             //if (hasSubscriptionActive)
-              ///AddNotification("Student.Subscriptions", "Você já tem uma assinatura ativa");
+              ///AddNotification("Student.Subscriptions", "Vocï¿½ jï¿½ tem uma assinatura ativa");
         }
     }
 }
