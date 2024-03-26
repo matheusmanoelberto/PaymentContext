@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C8EF5801-92A0-4762-9204-2863A4B8D8D5}|PaymentContext.Tests\\PaymentContext.Tests.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.tests\\entities\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8EF5801-92A0-4762-9204-2863A4B8D8D5}|PaymentContext.Tests\\PaymentContext.Tests.csproj|solutionrelative:paymentcontext.tests\\entities\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentTests.cs",
-              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Tests\\Entities\\StudentTests.cs",
-              "RelativeDocumentMoniker": "PaymentContext.Tests\\Entities\\StudentTests.cs",
-              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Tests\\Entities\\StudentTests.cs",
-              "RelativeToolTip": "PaymentContext.Tests\\Entities\\StudentTests.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T03:13:35.338Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
