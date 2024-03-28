@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\handlers\\subscriptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\handlers\\subscriptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Handlers\\SubscriptionHandler.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\Handlers\\SubscriptionHandler.cs",
+              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Handlers\\SubscriptionHandler.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\Handlers\\SubscriptionHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:51:57.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
