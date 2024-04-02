@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\handlers\\subscriptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\handlers\\subscriptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\valueobjects\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\valueobjects\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\mateus\\documents\\github\\paymentcontext\\paymentcontext.domain\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D50253E-1369-4461-84B0-0F3BBDF257E9}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Name.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\ValueObjects\\Name.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\ValueObjects\\Name.cs",
+              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\ValueObjects\\Name.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\ValueObjects\\Name.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:00:41.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Services\\IEmailService.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T02:57:09.565Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "PaymentContext.Domain\\Handlers\\SubscriptionHandler.cs",
               "ToolTip": "C:\\Users\\MATEUS\\Documents\\GitHub\\PaymentContext\\PaymentContext.Domain\\Handlers\\SubscriptionHandler.cs",
               "RelativeToolTip": "PaymentContext.Domain\\Handlers\\SubscriptionHandler.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAABWAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAqwFYAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T02:51:57.121Z",
               "EditorCaption": ""
